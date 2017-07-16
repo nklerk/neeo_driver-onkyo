@@ -3,7 +3,7 @@ NEEO Onkyo(AVR) driver
 
 Install with: npm install
 
-##Features:
+## Features:
 
 - VOLUME SLIDER
 Set your volume with a slider from [0 to 40] You can edit the code to go beyond 40 but out of safety i limited the volume to 40. U can use it by adding it as a shortcut or in recipes as a sensor.
@@ -17,19 +17,20 @@ U can use it by adding it as a shortcut.
 Displays the current input selection for example "INPUT AUX"
 U can use it by adding it as a shortcut.
 
-##Supported Power buttons:
+## Supported Power buttons:
 
 POWER OFF
 POWER ON
 
-##Supported Volume buttons:
+## Supported Volume buttons:
 
 MUTE OFF
 MUTE ON
 MUTE TOGGLE
 VOLUME UP
 VOLUME DOWN
-Supported Display buttons:
+
+## Supported Display buttons:
 
 Display Volume
 Display Listening Mode
