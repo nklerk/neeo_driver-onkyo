@@ -1,0 +1,14 @@
+{
+  "name": "neeo_driver-onkyo",
+  "version": "1.0.0",
+  "description": "Onkyo driver for NEEO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niels de Klerk",
+  "license": "",
+  "dependencies": {
+    "neeo-sdk": "^0.42.3"
+  }
+}
