@@ -151,7 +151,7 @@ function onkyoCommands() {
 	{	code: '!1OSDDOWN', name: "CURSOR DOWN"},
 	{	code: '!1OSDLEFT', name: "CURSOR LEFT"},
 	{	code: '!1OSDRIGHT', name: "CURSOR RIGHT"},
-	{	code: '!1OSDRIGHT', name: "CURSOR ENTER"},
+	{	code: '!1OSDENTER', name: "CURSOR ENTER"},
 	{	code: '!1OSDEXIT', name: "EXIT"},
 	{	code: '!1OSDHOME', name: "HOME"}
   ];
