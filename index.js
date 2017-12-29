@@ -18,9 +18,8 @@ console.log('------------------------------------------');
 //discovery text that is presented to the user while adding the Onkyo AVR.
 const discoveryInstructions = {
   headerText: 'Generic Onkyo AVR Driver over IP',
-  description: 'THIS DRIVER IS CURRENTLY IN BETA,' +
-    'SOME ISSUES MIGHT OCCUR.' +
-    'IT IS HIGHLY APPRECIATED WHEN POSSUBLE BUGS GET REPORTED. Niels de Klerk'
+  description: 'ENABLE THE NETWORK STANDBY FEATURE ON YOUR AVR TO BE ABLE TO POWER ON THE AVR OVER IP.' +
+    'THIS CODE IS A PROVE OF CONCEPT, IT IS HIGHLY APPRECIATED WHEN POSSUBLE BUGS GET REPORTED. Niels de Klerk'
 };
 
 
